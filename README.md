@@ -1,5 +1,7 @@
 # Pre-Final-Project
 Greenhouse management system
+![WhatsApp Image 2022-06-23 at 12 57 51 PM](https://user-images.githubusercontent.com/73634261/175272925-f5b1eaa2-118c-4e1c-b233-37ccb38f8fcc.jpeg)
+
 
 # Hardware Block Desgin 
 Block diagram of temperature circut
